@@ -10,7 +10,7 @@ const vegetables = [
         readyToEat: false
     },
     {
-        name:'C.arrot',
+        name:'Carrot',
         color: 'orange',
         readyToEat: true
     },
