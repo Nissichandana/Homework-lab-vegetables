@@ -1,0 +1,16 @@
+After cloning Christina's fruits-backend-example.git
+worked on it created two folders in views fruits and vegetables
+created Index.jsx, New.jsx, Show.jsx in both folders
+connected the routes and imported in the server to render 
+created Vegetables.js in models
+===================
+After working in the cloned repo to push to github use the below CLI in the terminal
+
+$ git remote -v
+origin  https://github.com/cmtakara/fruits-backend-example.git (fetch)
+origin  https://github.com/cmtakara/fruits-backend-example.git (push)
+$ git remote remove origin
+$ git remote add origin https://github.com/Nissichandana/Homework-lab-vegetables.git
+$ git add .
+$ git commit -m "commit"
+$ git push -u origin main
